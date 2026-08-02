@@ -1,0 +1,17 @@
+HOW TO RUN
+
+Windows / XAMPP:
+1. Download and install XAMPP.
+2. Copy the project folder into C:\xampp\htdocs\
+3. Start Apache from the XAMPP Control Panel.
+4. Open:
+   http://localhost/campus-events-hub-complete/index.php
+
+macOS / XAMPP:
+1. Copy the project folder into:
+   /Applications/XAMPP/xamppfiles/htdocs/
+2. Start Apache.
+3. Open:
+   http://localhost/campus-events-hub-complete/index.php
+
+The project uses CSV storage, so MySQL is not required.
